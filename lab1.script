@@ -1,0 +1,39 @@
+Script started on 2015年03月14日 (週六) 14時14分20秒
+]0;F14031279@2015cpp: ~F14031279@2015cpp:~$  whoami; pwd
+F14031279
+/home/F14031279
+]0;F14031279@2015cpp: ~F14031279@2015cpp:~$ git config ‐l
+git: 'config ‐l' is not a git command. See 'git --help'.
+]0;F14031279@2015cpp: ~F14031279@2015cpp:~$ git config ‐l[K[K--[1P--[C[C user [K.name joanna20828
+git: 'config--' is not a git command. See 'git --help'.
+]0;F14031279@2015cpp: ~F14031279@2015cpp:~$ git config-- user.name joanna20828[1@ [C[C[C[1P[1@g[1@l[1@o[1@b[1@a[1@l[1@ 
+]0;F14031279@2015cpp: ~F14031279@2015cpp:~$ git config --global user.name joanna20828[C[1P joanna20828[1P joanna20828[1P joanna20828[1P joanna20828e joanna20828m joanna20828a joanna20828i joanna20828l joanna20828[C[C[C[C[C[C[C[C[C[C[C[C"joanna20828[C[C[C[C[C[C[C[C[C[C[C@gmai ;.com"
+]0;F14031279@2015cpp: ~F14031279@2015cpp:~$ git config --global user.email "joanna20828@gmai;;.com"[1P"[1P"[1P"[1P"[1P"[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C" [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P"
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P"[1P"[1P"[C[1P "joanna20828"[1P "joanna20828"[1P "joanna20828"[1P "joanna20828"[1P "joanna20828"n "joanna20828"a "joanna20828"m "joanna20828"e "joanna20828"
+]0;F14031279@2015cpp: ~F14031279@2015cpp:~$ git config --global user.name "joanna20828"email "joanna20828@gmai;;.com"[1P.com"[K[A]0;F14031279@2015cpp: ~F14031279@2015cpp:~$ git config --global user.email "joanna20828@gmai.com"L.com"[1P.com"l.com"
+]0;F14031279@2015cpp: ~F14031279@2015cpp:~$ git config --global user.email "joanna20828@gmail.com"[11Pname "joanna20828"email "joanna20828@gmai;.com"[13Pname joanna20828[7P--[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C ‐l[K
+git: 'config ‐l' is not a git command. See 'git --help'.
+]0;F14031279@2015cpp: ~F14031279@2015cpp:~$ git config ‐l --global user.email "joanna20828@gmail.com"[11Pname "joanna20828"email "joanna20828@gmai;.com"[13Pname joanna20828[7P--[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C ‐l[K[1P‐l[K]0;F14031279@2015cpp: ~F14031279@2015cpp:~$ git config‐l[K]0;F14031279@2015cpp: ~F14031279@2015cpp:~$ git config‐l[K]0;F14031279@2015cpp: ~F14031279@2015cpp:~$ git config‐l[C[1Pl[K]0;F14031279@2015cpp: ~F14031279@2015cpp:~$ git configl=l[1Pl-l
+git: 'config-l' is not a git command. See 'git --help'.
+]0;F14031279@2015cpp: ~F14031279@2015cpp:~$ git config ‐l[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pl[1Pl[1Pl-l -l[C
+git: 'confi' is not a git command. See 'git --help'.
+
+Did you mean this?
+	config
+]0;F14031279@2015cpp: ~F14031279@2015cpp:~$ 
+]0;F14031279@2015cpp: ~F14031279@2015cpp:~$ git confi -lg -l
+user.name=joanna20828
+user.email=joanna20828@gmail.com
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.lab1.script.url=http://github.com/joanna20828/lab1.git
+remote.lab1.script.fetch=+refs/heads/*:refs/remotes/lab1.script/*
+remote.origin.url=https://github.com/joanna20828/lab1.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+]0;F14031279@2015cpp: ~F14031279@2015cpp:~$ git clone https://github.com/<your github account>/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.gitj/lab1.gito/lab1.gita/lab1.gitn/lab1.gitn/lab1.gita/lab1.git2/lab1.git0/lab1.git8/lab1.git2/lab1.git8/lab1.git
+fatal: destination path 'lab1' already exists and is not an empty directory.
+]0;F14031279@2015cpp: ~F14031279@2015cpp:~$ exit
+
+Script done on 2015年03月14日 (週六) 14時18分12秒
